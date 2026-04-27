@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Digital%20Experience%20Creator&descAlignY=60&descAlign=center&animation=twinkling&customColorList=0,2,2,5,30" alt="Shir Shamay Header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%20%7D;%20console.log(developer);;function%20createAmazingUI()%20%7B%20return%20%22Beautiful%20Experiences%22%20%7D;%20createAmazingUI();;%3Cdiv%3E%20Hello%20World%20%3C%2Fdiv%3E;%7B%20HTML%20%7D%20%7B%20CSS%20%7D%20%7B%20JavaScript%20%7D%20%7B%20React%20%7D" alt="Coding Background" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%20%7D;%20console.log(developer);;function%20createAmazingUI()%20%7B%20return%20%22Beautiful%20Experiences%22%20%7D;%20createAmazingUI();;%3Cdiv%3E%20Hello%20World%20%3C%2Fdiv%3E;%7B%20HTML%20%7D%20%7B%20CSS%20%7D%20%7B%20JavaScript%20%7D%20%7B%20TypeScript%20%7D" alt="Coding Background" />
 </div>
 
 <div align="center">
@@ -61,6 +61,21 @@ I thrive on **collaboration** and eager to work with clients to bring their visi
 </div>
 
 ---
+Experience 
+AdoptMe Israel (Volunteer Front-End Developer)
+The Project: Leading the strategic migration of the platform’s main homepage from legacy WordPress to a modern React 18 & TypeScript architecture.
+
+Key Impact:
+
+Optimizing Core Web Vitals, aiming to boost Performance scores from 71 to 95+ using modern rendering patterns.
+
+Implementing a highly accessible and reusable UI system using Shadcn/UI and Tailwind CSS.
+
+Restructuring SEO infrastructure to maintain and improve search engine rankings for a platform serving thousands of monthly users.
+
+Stack: React, TypeScript, Tailwind CSS, Shadcn/UI, Lucide Icons, GA4.
+---
+
 
 ## 🎨 **Hobbies & Interests**
 
