@@ -62,12 +62,12 @@ I thrive on **collaboration** and eager to work with clients to bring their visi
 
 ---
 Experience 
-AdoptMe Israel (Volunteer Front-End Developer)
+AdoptMe Israel (Front-End Developer)
 The Project: Leading the strategic migration of the platform’s main homepage from legacy WordPress to a modern React 18 & TypeScript architecture.
 
 Key Impact:
 
-Optimizing Core Web Vitals, aiming to boost Performance scores from 71 to 95+ using modern rendering patterns.
+Optimizing Core Web Vitals, aiming to boost Performance scores from 71 to 90+ using modern rendering patterns.
 
 Implementing a highly accessible and reusable UI system using Shadcn/UI and Tailwind CSS.
 
