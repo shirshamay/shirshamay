@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Digital%20Experience%20Creator&descAlignY=60&descAlign=center&animation=twinkling&customColorList=0,2,2,5,30" alt="Shir Shamay Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Frontend%20Developer&descAlignY=60&descAlign=center&animation=twinkling&customColorList=0,2,2,5,30" alt="Shir Shamay Header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%20%7D;%20console.log(developer);;function%20createAmazingUI()%20%7B%20return%20%22Beautiful%20Experiences%22%20%7D;%20createAmazingUI();;%3Cdiv%3E%20Hello%20World%20%3C%2Fdiv%3E;%7B%20HTML%20%7D%20%7B%20CSS%20%7D%20%7B%20JavaScript%20%7D%20%7B%20TypeScript%20%7D" alt="Coding Background" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%2C%20type%3A%20%22Full-Stack%22%20%7D;;function%20buildScalableApps()%20%7B%20return%20%22Performance%20%26%20UX%22%20%7D;;%3CNextJS%20%2F%3E%20%7B%20TypeScript%20%7D%20%7B%20Node.js%20%7D%20%7B%20MongoDB%20%7D" alt="Coding Background" />
 </div>
 
 <div align="center">
@@ -12,14 +12,10 @@
 
 # 👋 Hi there, I'm **Shir Shamay**
 
-### 🚀 _Passionate Front-End Developer & Digital Experience Creator_
+### 🚀 _Software Engineer | Specializing in Modern Web Architectures, Next.js & Full-Stack Ecosystems_
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=console.log('Hello+World!');&center=true&vCenter=true&width=600&lines=const+shir+%3D+%7B;+name%3A+'Shir+Shamay'%2C;+role%3A+'Front-End+Developer'%2C;+passion%3A+'Creating+amazing+UIs'%7D;+console.log(shir);" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshamay&theme=default&hide_border=true&background=ffffff&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=4682B4&sideNums=4682B4&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=4682B4" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshamay&theme=react&hide_border=true&background=ffffff&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=4682B4&sideNums=4682B4&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=4682B4" alt="GitHub Streak" />
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shirshamay&color=87CEEB&style=flat-square)](https://github.com/shirshamay)
@@ -32,19 +28,9 @@
 
 ## 🎯 **About Me**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=2&section=header&reversal=false&customColorList=0,2,2,5,30" />
-</div>
+I am a passionate and results-driven **Software Engineer** focused on building high-performance, scalable web applications. My expertise lies in crafting seamless user experiences using **React** and **Next.js**, balanced with robust engineering principles. 
 
-As a **passionate and dedicated Front-End Developer**, I'm committed to creating exceptional digital experiences that prioritize user needs. With a strong foundation in **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, and **React**, I'm skilled in crafting visually appealing and highly functional websites.
-
-I'm an **autodidact** with a thirst for knowledge, constantly seeking to learn and implement new technologies. My designs are rooted in **UX/UI principles**, ensuring that every project is user-centered and intuitive.
-
-I thrive on **collaboration** and eager to work with clients to bring their visions to life! ✨
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=2&section=header&reversal=false&customColorList=0,2,2,5,30" />
-</div>
+I am constantly expanding my Full-Stack and Cloud capabilities, engineering backends with **Node.js** & **Express**, integrating distributed databases like **MongoDB**, and deploying scalable cloud environments with **AWS**. As an efficiency-focused developer, I seamlessly integrate advanced **AI tools** (ChatGPT, Claude, Gemini) into my workflow to accelerate development, design robust architectures, and maintain high code quality.
 
 ---
 
@@ -52,30 +38,35 @@ I thrive on **collaboration** and eager to work with clients to bring their visi
 
 <div align="center">
 
-|                                                   **Frontend**                                                    |                                                       **Styling**                                                       |                                                 **Tools & Others**                                                  |
-| :---------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
-|        ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)         |             ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)             |            ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)             |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-|        ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)        |           ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)            |        ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)        |
+| **Frontend Ecosystem** | **Backend & Cloud** | **UI Systems & Styling** | **AI Engineering & Tools** |
+| :--- | :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) | ![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white) | ![Claude](https://img.shields.io/badge/Claude-D97752?style=flat-square&logo=anthropic&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat-square&logo=mantine&logoColor=white) | ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
 </div>
 
 ---
-Experience 
-AdoptMe Israel (Front-End Developer)
-The Project: Leading the strategic migration of the platform’s main homepage from legacy WordPress to a modern React 18 & TypeScript architecture.
 
-Key Impact:
+## 💼 **Featured Experience & Projects**
 
-Optimizing Core Web Vitals, aiming to boost Performance scores from 71 to 90+ using modern rendering patterns.
+### 🐾 **AdoptMe Israel** — *Volunteer Software Engineer*
+> Leading the strategic, production-level migration of an active community platform serving thousands of users.
+* **The Mission:** Migrating the legacy WordPress platform into a modern, highly optimized **React 18, Next.js, and TypeScript** architecture.
+* **Impact & Engineering:** 
+  * Re-architecting state management and routing using modern SSR/SSG patterns to boost Core Web Vitals (boosting Performance scores from **71 to 90+**).
+  * Designing a scalable, accessible, and themeable UI system leveraging **Tailwind CSS**, **Shadcn/UI**, and **Mantine**.
+  * Rebuilding the technical SEO infrastructure to maintain and scale search engine presence.
 
-Implementing a highly accessible and reusable UI system using Shadcn/UI and Tailwind CSS.
+### 💰 **SmartWallet** — *Full-Stack Financial Platform*
+> A financial tracking and cryptocurrency dashboard designed for real-time asset tracking and dynamic data visualization.
+* **Frontend Architecture:** Built with **React**, **TypeScript**, and **Tailwind CSS**, ensuring a modular codebase with highly predictable state synchronization.
+* **API Integration:** Integrated the **CoinGecko API** to fetch, process, and render real-time global cryptocurrency price feeds and market metrics.
+* **Backend Extension (In Progress):** Migrating application architecture from purely local storage to a full-stack environment by developing a **Node.js & Express** REST API backend to handle robust user state, data persistence, and secure data routing.
+* **Key Features:** Supports manual entry options for comprehensive asset management alongside rich analytical rendering.
 
-Restructuring SEO infrastructure to maintain and improve search engine rankings for a platform serving thousands of monthly users.
-
-Stack: React, TypeScript, Tailwind CSS, Shadcn/UI, Lucide Icons, GA4.
 ---
-
 
 ## 🎨 **Hobbies & Interests**
 
@@ -104,19 +95,13 @@ Stack: React, TypeScript, Tailwind CSS, Shadcn/UI, Lucide Icons, GA4.
 
 ---
 
-## 💡 **Fun Fact**
-
-> _"When I'm not coding, I enjoy spending time with animals, practicing yoga, and exploring new culinary techniques!"_ 🌟
-
----
-
 ## 📊 **GitHub Stats**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirshamay&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=87CEEB&text_color=4682B4&icon_color=87CEEB)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirshamay&show_icons=true&title_color=87CEEB&icon_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshamay&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=87CEEB&text_color=4682B4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshamay&layout=compact&title_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
 
 </div>
 
@@ -126,7 +111,7 @@ Stack: React, TypeScript, Tailwind CSS, Shadcn/UI, Lucide Icons, GA4.
 
 <div align="center">
 
-### 💬 _Ready to collaborate and bring your vision to life!_
+### 💬 _Open for collaborations, interesting tech talks, and full-stack challenges!_
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shir-shamay)
 [![Email](https://img.shields.io/badge/Email-Me%20Directly-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:shirshamay19454@outlook.com)
