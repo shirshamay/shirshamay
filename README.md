@@ -3,19 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Next.js%20and%20Full-Stack%20Developer&descAlignY=60&descAlign=center&animation=twinkling" alt="Shir Shamay Header" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%2C%20type%3A%20%22Full-Stack%22%20%7D;;function%20buildScalableApps()%20%7B%20return%20%22Performance%20%26%20UX%22%20%7D;;%3CNextJS%20%2F%3E%20%7B%20TypeScript%20%7D%20%7B%20Node.js%20%7D%20%7B%20MongoDB%20%7D" alt="Coding Background" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%2C%20type%3A%20%22Full-Stack%22%20%7D;;function%20buildScalableApps()%20%7B%20return%20%22Performance%20and%20UX%22%20%7D;;%3CNextJS%20%2F%3E%20%7B%20TypeScript%20%7D%20%7B%20Node.js%20%7D%20%7B%20MongoDB%20%7D" alt="Coding Background" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=1&section=header&reversal=false&customColorList=0,2,2,5,30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=87CEEB&height=1&section=header&reversal=false" />
 </div>
 
 # 👋 Hi there, I'm **Shir Shamay**
 
-### 🚀 _Software Engineer | Specializing in Modern Web Architectures, Next.js & Full-Stack Ecosystems_
+### 🚀 _Software Engineer | Specializing in Modern Web Architectures, Next.js and Full-Stack Ecosystems_
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shirshamay&theme=react&hide_border=true&background=ffffff&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=4682B4&sideNums=4682B4&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=4682B4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shirshamay&theme=default&hide_border=true&background=ffffff&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=4682B4&sideNums=4682B4&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=4682B4" alt="GitHub Streak" />
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=shirshamay&color=87CEEB&style=flat-square)](https://github.com/shirshamay)
@@ -99,9 +99,9 @@ I am constantly expanding my Full-Stack and Cloud capabilities, engineering back
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirshamay&show_icons=true&title_color=87CEEB&icon_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=shirshamay&show_icons=true&title_color=87CEEB&icon_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shirshamay&layout=compact&title_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=shirshamay&layout=compact&title_color=87CEEB&text_color=4682B4&bg_color=ffffff&hide_border=true)
 
 </div>
 
@@ -129,7 +129,7 @@ I am constantly expanding my Full-Stack and Cloud capabilities, engineering back
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=footer&text=Shir%20Shamay&fontSize=30&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="Footer" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+amazing+things!+%F0%9F%9A%80" alt="Thank you message" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=87CEEB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%98%8A;Let's+connect+and+build+amazing+things!+%F0%9F%9A%80" alt="Thank you message" />
 </div>
 
 </div>
