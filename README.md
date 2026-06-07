@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Frontend%20Developer&descAlignY=60&descAlign=center&animation=twinkling&customColorList=0,2,2,5,30" alt="Shir Shamay Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=SHIR%20SHAMAY&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Next.js%20and%20Full-Stack%20Developer&descAlignY=60&descAlign=center&animation=twinkling" alt="Shir Shamay Header" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=87CEEB&center=true&vCenter=true&width=900&lines=const%20developer%20%3D%20%7B%20name%3A%20%22Shir%20Shamay%22%2C%20type%3A%20%22Full-Stack%22%20%7D;;function%20buildScalableApps()%20%7B%20return%20%22Performance%20%26%20UX%22%20%7D;;%3CNextJS%20%2F%3E%20%7B%20TypeScript%20%7D%20%7B%20Node.js%20%7D%20%7B%20MongoDB%20%7D" alt="Coding Background" />
